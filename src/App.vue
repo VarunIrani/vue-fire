@@ -103,4 +103,9 @@ button {
   padding: 0 0.5em 0 0.5em;
   font-family: "Roboto Mono";
 }
+
+button:hover {
+  cursor: pointer;
+}
+
 </style>
