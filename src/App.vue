@@ -57,6 +57,7 @@ export default {
       const key = person[".key"];
       namesRef.child(key).set({ name: person.name, edit: false });
     }
+    
   }
 };
 </script>
@@ -78,8 +79,7 @@ input {
   font-family: "Roboto Mono";
 }
 
-h1,
-h2 {
+h1,h2 {
   font-weight: normal;
 }
 
