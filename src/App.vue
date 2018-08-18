@@ -57,6 +57,7 @@ export default {
       const key = person[".key"];
       namesRef.child(key).set({ name: person.name, edit: false });
     }
+    
   }
 };
 </script>
