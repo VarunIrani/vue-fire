@@ -78,8 +78,7 @@ input {
   font-family: "Roboto Mono";
 }
 
-h1,
-h2 {
+h1,h2 {
   font-weight: normal;
 }
 
