@@ -20,7 +20,7 @@
             <button @click="cancelEdit(personName['.key'])">CANCEL</button>
           </div>
         </li>
-      </ul>
+      </ul> 
     </div>
   </div>
 </template>
